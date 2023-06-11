@@ -1,13 +1,24 @@
-# Miami landing page
+# Layout of the "Bose" project
 
-In this task, you will learn how to implement a landing page. To do that:
+**Training project for layout practice**
 
-- choose a landing page design from the list below;
-  - [BOSE landing](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%3A1)
-  - [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
-  - [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
-- watch the lesson videos and implement your page blocks similarly to the videos;
-- **DON'T** try to do it `Pixel Perfect` - implement it the most `simple` way so it looks similar;
-- when you finish the first block of your page deploy it and create a Pull Request with a [DEMO LINK](https://<your_account>.github.io/layout_miami/) 
-- after each next block do the same (add, commit and push the changes, and deploy the updated demo;
-- check yourself using the [CHECKLIST](https://github.com/mate-academy/layout_miami/blob/master/checklist.md) when finished;
+## Requirements:
+* [Node.js](https://nodejs.org/en/) (version 14.21.3)
+* [Npm](https://www.npmjs.com/)
+* [Git](https://git-scm.com/)
+
+## Installation:
+1. Clone the repository
+2. Install dependencies - npm i
+3. Start development server - npm start
+
+## Commands:
+* ```npm start``` - start the development server
+* ```npm test``` - check run a code-writing check with Lint
+* ```npm deploy``` - deploy application
+
+## Contact author:
+**Vladislav Balaban**
+  - [Telegram](https://t.me/vlad_balaban2021)
+  - [Gmail](mailto:vlad.balaban2020@mail.com)
+  - [Github](https://github.com/IonShive)
