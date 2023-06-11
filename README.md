@@ -1,6 +1,7 @@
 # Layout of the "Bose" project
 
 **Training project for layout practice**
+- [DEMO LINK](https://ionshive.github.io/bose/)
 
 ## Requirements:
 * [Node.js](https://nodejs.org/en/) (version 14.21.3)
@@ -15,7 +16,7 @@
 ## Commands:
 * ```npm start``` - start the development server
 * ```npm test``` - check run a code-writing check with Lint
-* ```npm deploy``` - deploy application
+* ```npm run deploy``` - deploy application
 
 ## Contact author:
 **Vladislav Balaban**
